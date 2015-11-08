@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28500" started-at="2015-11-07T09:21:24Z" finished-at="2015-11-07T09:21:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28500" started-at="2015-11-07T09:21:24Z" finished-at="2015-11-07T09:21:53Z">
+      <class name="com.xujh.cases.ExecuteCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xujh.cases.ExecuteCases@52bc3811]" name="setUp" is-config="true" duration-ms="10040" started-at="2015-11-07T17:21:24Z" finished-at="2015-11-07T17:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="executeCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.xujh.cases.ExecuteCases@52bc3811]" name="executeCase" duration-ms="7" started-at="2015-11-07T17:21:35Z" data-provider="getTestData" finished-at="2015-11-07T17:21:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case_baidu_1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCase -->
+        <test-method status="PASS" signature="executeCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.xujh.cases.ExecuteCases@52bc3811]" name="executeCase" duration-ms="7502" started-at="2015-11-07T17:21:35Z" data-provider="getTestData" finished-at="2015-11-07T17:21:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Open]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[url]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCase -->
+        <test-method status="PASS" signature="executeCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.xujh.cases.ExecuteCases@52bc3811]" name="executeCase" duration-ms="3990" started-at="2015-11-07T17:21:43Z" data-provider="getTestData" finished-at="2015-11-07T17:21:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SetKeys]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[inputText]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[teradata]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCase -->
+        <test-method status="PASS" signature="executeCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.xujh.cases.ExecuteCases@52bc3811]" name="executeCase" duration-ms="4706" started-at="2015-11-07T17:21:47Z" data-provider="getTestData" finished-at="2015-11-07T17:21:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Click]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[searchBtn]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xujh.cases.ExecuteCases@52bc3811]" name="tearDown" is-config="true" duration-ms="1495" started-at="2015-11-07T17:21:51Z" finished-at="2015-11-07T17:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xujh.cases.ExecuteCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
